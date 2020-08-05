@@ -1,9 +1,9 @@
 
 ![](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)
 
-# Unit 2: React!
+# Unit 2: Full-Stack!
 
-In this unit, you'll learn about React which is a view library for building modern and dynamic web applications. We'll build off of the frontend fundamentals from unit one in order to make a single page application.
+In this unit, you'll learn about full-stack development which consists of building a backend and layering a frontend on top. We'll build off of the frontend skills from unit one & two so please review those materials.
 
 ## Objectives
 
